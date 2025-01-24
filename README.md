@@ -32,6 +32,29 @@ Here are some of the technologies I love working with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actiel001&layout=compact&theme=radical" />
 </div>
 
+<div>
+<h2 align="center"> ABOUT ME 🎃 </h2>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
+  </div>
+<li>
+ <b>Name:</b> Actiel Universe
+</li>
+<li>
+<b>Hobby:</b> watching anime, playing games, debating, coding, web dev
+</li>
+<li>
+<b>Origin:</b> Isekai
+</li>
+<li>
+<b>Website :</b> https://katanime1.blogspot.com/
+</li>
+<li>
+<b>Motto :</b> be a normal person
+</li>
+<li>
+<b>My kind :</b> I identify I am a robot
+</li>
 
 ## 🔗 Connect with Me
 
