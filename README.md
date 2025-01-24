@@ -4,6 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on pr
 
 <p align="center">
   <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character" style="max-width: 80%; height: auto; border-radius: 10px;">
+   <img src="https://i.imgur.com/oTt3jIp.png" alt="Anime Character" style="max-width: 80%; height: auto; border-radius: 10px;">
+   <img src="https://i.imgur.com/r7FGy4K.png" alt="Anime Character" style="max-width: 80%; height: auto; border-radius: 10px;">
+
 </p>
 
 <h1 align="center">WELCOME EXPLOSION</h1>
