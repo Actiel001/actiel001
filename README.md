@@ -57,7 +57,7 @@ Here are some of the technologies I love working with:
 </li>
 
 
-## 🔗 Connect w me
+
 ### 🔗 Social Media
 
 
