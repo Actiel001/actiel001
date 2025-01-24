@@ -33,7 +33,7 @@ Here are some of the technologies I love working with:
 </div>
 
 <div>
-<h2 align="center"> ABOUT ME 🎃 </h2>
+<h2> ABOUT ME 🎃 </h2>
   <div align="center">
 <img src="https://i.imgur.com/V7626Gy.png" align="right" width="40%">
   </div>
