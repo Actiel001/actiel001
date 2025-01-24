@@ -2,14 +2,8 @@
 
 Welcome to my GitHub profile! I am a human being who is interested in programming languages, I like creating websites and currently I am studying machine learning and deep learning so that I can make websites more interesting, especially in image processing. Please visit my repository to see it
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp6Zm80MmlrZDZ0NWE0c2x3Z3drZDJvMHUwNjNvMGtseDFsMW90eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F9TU57hPIUAH6Dagnc/giphy.gif" alt="Anime Character" style="max-width: 90%; height: auto; border-radius: 10px;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp6Zm80MmlrZDZ0NWE0c2x3Z3drZDJvMHUwNjNvMGtseDFsMW90eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F9TU57hPIUAH6Dagnc/giphy.gif" alt="Anime Character" style="max-width: 100%; height: auto; border-radius: 10px;">
 </p>
-
-
-
-
-
-
 
 <h1 align="center">WELCOME EXPLOSION</h1>
 
