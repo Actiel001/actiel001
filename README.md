@@ -19,7 +19,9 @@ Here are some of the technologies I love working with:
 
 ## 🌱 I’m Currently Learning
 
-- **Cloud Computing** with AWS and Azure
+- Cloud Computing with AWS and Azure (because the cloud is the future 🌥️)
+- Advanced React (Hooks, Context API, and beyond—keeping it modern)
+- Machine Learning with Python (teaching machines to think 🤖)
 - **Advanced React** (Hooks, Context API, etc.)
 - **Machine Learning** with Python
   
@@ -31,8 +33,6 @@ Here are some of the technologies I love working with:
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact" alt="actiel001" style="width: 38%; height: 200px; object-fit: cover;"/>
   </a>
 </div>
-
-
 
 <div>
 <h2> 🎃 About Me </h2>
