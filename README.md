@@ -40,7 +40,7 @@ Feel free to check out my repositories and let's collaborate! 😄
 
 Here are some of the projects I’ve worked on:
 
-- [**School Payment System**](https://github.com/actiel001/school-payment-system): A system for managing school payments.
+- [**smmssmss*](https://github.com/actiel001/): A system sss.
 - [**Task Manager App**](https://github.com/actiel001/task-manager): A task manager app to organize tasks and improve productivity.
 
 ---
