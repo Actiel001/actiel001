@@ -56,7 +56,7 @@ Here are some of the technologies I love working with:
 <b>My kind :</b> I identify I am a robot
 </li>
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 
 ### Social Media
 
