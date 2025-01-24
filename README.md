@@ -35,7 +35,7 @@ Here are some of the technologies I love working with:
 <div>
 <h2 align="center"> ABOUT ME 🎃 </h2>
   <div align="center">
-<img src="blob:https://imgur.com/ea7796ad-1e9e-4213-9497-dd1996d0c836" align="right" width="40%">
+<img src="https://i.imgur.com/V7626Gy.png" align="right" width="40%">
   </div>
 <li>
  <b>Name:</b> Actiel Universe
