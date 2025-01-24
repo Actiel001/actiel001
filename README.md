@@ -32,9 +32,10 @@ Here are some of the technologies I love working with:
 
 ## 🌱 I’m Currently Learning
 
-- **Cloud Computing with AWS and Azure** (because the cloud is the future 🌥️)
-- **Advanced React** (Hooks, Context API, and beyond—keeping it modern)
-- **Machine Learning with Python** (teaching machines to think 🤖)
+**Cloud Computing with AWS and Azure** (because the cloud is the future 🌥️), **Advanced React** (Hooks, Context API, and beyond-keeping it modern), and **Machine Learning with Python** (teaching machines to think 🤖).
+I'm interested in deep learning especially for image processing that's one of the reasons I like to learn machine learning with py, then I'm also interested in debbian well you know maybe it's including difficult
+
+Translated with DeepL.com (free version)
 
   
 ## 📈 GitHub Stats
