@@ -11,12 +11,42 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 
 Here are some of the technologies I love working with:
 
-| Frontend                     | Backend                     | Database              | Version Control         | Other Tools      |
-|------------------------------|-----------------------------|-----------------------|-------------------------|------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)  | ![PHP](https://img.shields.io/badge/PHP-777bb3?style=flat&logo=php&logoColor=white)  | ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-f34b7d?style=flat&logo=git&logoColor=white)  | ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)  | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  | ![Oracle](https://img.shields.io/badge/Oracle-f89820?style=flat&logo=oracle&logoColor=white)  | ![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat&logo=github&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-ff6f61?style=flat&logo=postman&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)  |                       |                         |                  |
-| ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black) |                             |                       |                         |                  |
+<div align="center">
+  <table>
+    <tr>
+      <th>Frontend</th>
+      <th>Backend</th>
+      <th>Database</th>
+      <th>Version Control</th>
+      <th>Other Tools</th>
+    </tr>
+    <tr>
+      <td>
+        ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white)  
+        ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white)  
+        ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)  
+        ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black)
+      </td>
+      <td>
+        ![PHP](https://img.shields.io/badge/PHP-777bb3?style=flat&logo=php&logoColor=white)  
+        ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
+        ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
+      </td>
+      <td>
+        ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white)  
+        ![Oracle](https://img.shields.io/badge/Oracle-f89820?style=flat&logo=oracle&logoColor=white)
+      </td>
+      <td>
+        ![Git](https://img.shields.io/badge/Git-f34b7d?style=flat&logo=git&logoColor=white)  
+        ![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat&logo=github&logoColor=white)
+      </td>
+      <td>
+        ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white)  
+        ![Postman](https://img.shields.io/badge/Postman-ff6f61?style=flat&logo=postman&logoColor=white)
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🌱 I’m Currently Learning
 
