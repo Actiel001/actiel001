@@ -1,6 +1,6 @@
  # Im Actiel Universe a.k.a Actiel 😎
 
-Welcome to my GitHub profile! I'm a passionate developer who loves working on projects that help solve real-world problems. I'm always learning new technologies and looking for ways to improve my skills.
+Welcome to my GitHub profile! I am a human being who is interested in programming languages, I like creating websites and currently I am studying machine learning and deep learning so that I can make websites more interesting, especially in image processing. Please visit my repository to see it
 
 
  <p align="center">
