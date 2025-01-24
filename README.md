@@ -12,14 +12,13 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 Here are some of the technologies I love working with:
 
 ## Frontend
-- ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black) React.js
+- ![Node.js](https://img.shields.io/badge/Node.js-8cc84b?style=flat&logo=node.js&logoColor=white) Node.js
 - ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white) HTML
 - ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white) CSS
 - ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) JavaScript
 
 ## Backend
 - ![PHP](https://img.shields.io/badge/PHP-777bb3?style=flat&logo=php&logoColor=white) PHP
-- ![Node.js](https://img.shields.io/badge/Node.js-8cc84b?style=flat&logo=node.js&logoColor=white) Node.js
 - ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) Express
 - ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white) Python
 
@@ -34,7 +33,6 @@ Here are some of the technologies I love working with:
 ## Other Tools
 - ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white) Docker
 - ![Postman](https://img.shields.io/badge/Postman-ff6f61?style=flat&logo=postman&logoColor=white) Postman
-
 ## 🌱 I’m Currently Learning
 
 - **Cloud Computing with AWS and Azure** (because the cloud is the future 🌥️)
