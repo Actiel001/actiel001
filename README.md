@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on pr
 
 <p align="center">
   <div style="width: 80%; max-width: 700px; overflow: hidden; border-radius: 10px;">
-    <div style="display: flex; animation: slide 10s infinite;">
-      <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 1" style="width: 100%; height: auto; border-radius: 10px;">
-      <img src="https://i.imgur.com/oTt3jIp.png" alt="Anime Character 2" style="width: 100%; height: auto; border-radius: 10px;">
+    <div style="display: flex; animation: slide 15s infinite;">
+      <img src="https://i.imgur.com/oTt3jIp.png" alt="Anime Character 1" style="width: 100%; height: auto; border-radius: 10px;">
+      <img src="https://i.imgur.com/a2.png" alt="Anime Character 2" style="width: 100%; height: auto; border-radius: 10px;">
       <img src="https://i.imgur.com/a3.png" alt="Anime Character 3" style="width: 100%; height: auto; border-radius: 10px;">
       <img src="https://i.imgur.com/a4.png" alt="Anime Character 4" style="width: 100%; height: auto; border-radius: 10px;">
       <img src="https://i.imgur.com/a5.png" alt="Anime Character 5" style="width: 100%; height: auto; border-radius: 10px;">
