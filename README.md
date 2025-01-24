@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="GIF 1" style="width: 200px; height: auto; border-radius: 10px;">
-  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 2" style="width: 600px; height: auto; border-radius: 20px;">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="GIF 3" style="width: 200px; height: auto; border-radius: 10px;">
+ <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 2" style="width: 600px; height: auto; border-radius: 20px;">
 </div>
 
 <h1 align="center">WELCOME EXPLOSION</h1>
