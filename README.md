@@ -58,10 +58,10 @@ Here are some of the technologies I love working with:
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/actiel001)
-- **Twitter**: [@actiel001](https://twitter.com/actiel001)
-- **Discord**: [@actiel001](https://discord.com/actiel001)
--  **Instagram**: [@actiel001](https://instagram.com/actiel001)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [LinkedIn Profile](https://www.linkedin.com/in/actiel001)
+- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white) [@actiel001](https://twitter.com/actiel001)
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) [@actiel001](https://discord.com/actiel001)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white) [@actiel001](https://instagram.com/actiel001)
 
 Feel free to check out my repositories and let's collaborate! 😄
 
