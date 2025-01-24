@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves working on projects that help solve real-world problems. I'm always learning new technologies and looking for ways to improve my skills.
 
 <p align="center">
-  <img src="https://image.pngaaa.com/292/4108292-middle.png" alt="Anime Character" style="max-width: 80%; height: auto; border-radius: 10px;">
+  <img src="https://imgur.com/undefined" alt="Anime Character" style="max-width: 80%; height: auto; border-radius: 10px;">
 </p>
 
 <h1 align="center">WELCOME EXPLOSION</h1>
