@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves working on projects that help solve real-world problems. I'm always learning new technologies and looking for ways to improve my skills.
 
-![Anime Character](https://www.waifu2x.net/api) <!-- Ganti dengan URL gambar anime yang ingin kamu pakai -->
+![Anime Character](https://image.pngaaa.com/292/4108292-middle.png) <!-- Ganti dengan URL gambar anime yang ingin kamu pakai -->
 
 ## 🔧 Tech Stack
 
