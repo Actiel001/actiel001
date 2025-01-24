@@ -12,18 +12,17 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 Here are some of the technologies I love working with:
 
 - **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express, Python
-- **Database**: MySQL, MongoDB
+- **Backend**: PHP, Node.js, Express, Python
+- **Database**: MySQL, Oracle
 - **Version Control**: Git, GitHub
 - **Other Tools**: Docker, Postman
 
 ## 🌱 I’m Currently Learning
 
-- Cloud Computing with AWS and Azure (because the cloud is the future 🌥️)
-- Advanced React (Hooks, Context API, and beyond—keeping it modern)
-- Machine Learning with Python (teaching machines to think 🤖)
-- **Advanced React** (Hooks, Context API, etc.)
-- **Machine Learning** with Python
+- **Cloud Computing with AWS and Azure** (because the cloud is the future 🌥️)
+- **Advanced React** (Hooks, Context API, and beyond—keeping it modern)
+- **Machine Learning with Python** (teaching machines to think 🤖)
+
   
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
