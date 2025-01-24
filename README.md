@@ -87,6 +87,6 @@ Here are some of the projects I’ve worked on:
 Thanks for visiting my profile! Let's connect and build something great! 🚀
 
 <p align="center">
-  <img src="https://i.imgur.com/oTt3jIp.png" alt="megumin" style="max-width: 50%; height: auto; border-radius: 10px;">
+  <img src="https://i.imgur.com/ub3Vj3M.png" alt="megumin" style="max-width: 50%; height: auto; border-radius: 10px;">
 </p>
 
