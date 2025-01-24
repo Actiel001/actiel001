@@ -11,20 +11,41 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 
 Here are some of the technologies I love working with:
 
-### Frontend
-![Node.js](https://img.shields.io/badge/Node.js-8cc84b?style=flat&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <h3>Frontend</h3>
+    <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black" alt="React">
+  </div>
+  
+  <div>
+    <h3>Backend</h3>
+    <img src="https://img.shields.io/badge/PHP-777bb3?style=flat&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express">
+    <img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" alt="Python">
+  </div>
+  
+  <div>
+    <h3>Database</h3>
+    <img src="https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/Oracle-f89820?style=flat&logo=oracle&logoColor=white" alt="Oracle">
+  </div>
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777bb3?style=flat&logo=php&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
+  <div>
+    <h3>Version Control</h3>
+    <img src="https://img.shields.io/badge/Git-f34b7d?style=flat&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-24292f?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </div>
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-f89820?style=flat&logo=oracle&logoColor=white)
+  <div>
+    <h3>Other Tools</h3>
+    <img src="https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Postman-ff6f61?style=flat&logo=postman&logoColor=white" alt="Postman">
+  </div>
+</div>
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-f34b7d?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat&logo=github&logoColor=white)
-
-### Other Tools
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-ff6f61?style=flat&logo=postman&logoColor=white)
 ## 🌱 I’m Currently Learning
 
 - **Cloud Computing with AWS and Azure** (because the cloud is the future 🌥️)
