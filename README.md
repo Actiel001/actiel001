@@ -5,9 +5,6 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHp6Zm80MmlrZDZ0NWE0c2x3Z3drZDJvMHUwNjNvMGtseDFsMW90eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F9TU57hPIUAH6Dagnc/giphy.gif" alt="Anime Character" style="width: 120%; height: auto; border-radius: 10px;">
 </p>
 
-
-
-
 <h1 align="center">WELCOME EXPLOSION</h1>
 
 ## 🔧 Tech Stack
@@ -30,10 +27,11 @@ Here are some of the technologies I love working with:
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical" style="width: 48%; height: 200px; object-fit: cover;"/>
-  <a href="https://github.com/actiel001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact" alt="actiel001" style="width: 38%; height: 200px; object-fit: cover;"/>
+  <a href="https://github.com/actiel001" style="margin-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact" alt="actiel001" style="width: 44%; height: 200px; object-fit: cover;"/>
   </a>
 </div>
+
 
 
 
