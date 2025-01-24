@@ -3,11 +3,12 @@
 Welcome to my GitHub profile! I am a human being who is interested in programming languages, I like creating websites and currently I am studying machine learning and deep learning so that I can make websites more interesting, especially in image processing. Please visit my repository to see it
 
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 1" style="width: 200px; height: auto; border-radius: 10px;">
-  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 2" style="max-width: 80%; height: auto; border-radius: 10px;">
-  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 3" style="width: 200px; height: auto; border-radius: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 1" style="width: 150px; height: auto; border-radius: 10px;">
+  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 2" style="width: 80%; height: auto; border-radius: 10px;">
+  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 3" style="width: 150px; height: auto; border-radius: 10px;">
 </div>
+
 
 
 
