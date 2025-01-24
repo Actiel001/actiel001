@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 
 Here are some of the technologies I love working with:
 
-<div align="center">
+<div align="right">
 
 | Frontend                     | Backend                     | Database              | Version Control         | Other Tools      |
 |------------------------------|-----------------------------|-----------------------|-------------------------|------------------|
