@@ -58,7 +58,7 @@ Here are some of the technologies I love working with:
 
 
 
- <center>### 🔗 Social Media</center>
+   ### 🔗 Connect w me
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/actiel001)
