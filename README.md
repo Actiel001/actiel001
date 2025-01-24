@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 1" style="width: 200px; height: auto; border-radius: 10px;">
-  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 2" style="width: 200px; height: auto; border-radius: 10px;">
+  <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 2" style="width: 300px; height: auto; border-radius: 20px;">
   <img src="https://i.imgur.com/DhZsptC.png" alt="Anime Character 3" style="width: 200px; height: auto; border-radius: 10px;">
 </div>
 
