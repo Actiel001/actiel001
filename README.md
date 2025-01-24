@@ -55,14 +55,9 @@ Here are some of the technologies I love working with:
 <li>
 <b>My kind :</b> I identify I am a robot
 </li>
-
-
-
-  
+ 
    <h3 align="center">🔗Connect w me</h3>
-
-
-
+   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/actiel001)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/actiel001)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/actiel001)
