@@ -60,6 +60,8 @@ Here are some of the technologies I love working with:
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/actiel001)
 - **Twitter**: [@actiel001](https://twitter.com/actiel001)
+- **Discord**: [@actiel001](https://discord.com/actiel001)
+-  **Instagram**: [@actiel001](https://instagram.com/actiel001)
 
 Feel free to check out my repositories and let's collaborate! 😄
 
