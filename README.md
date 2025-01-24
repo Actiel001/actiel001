@@ -12,6 +12,12 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 Here are some of the technologies I love working with:
 
 <div align="right">
+  <strong>Frontend</strong>: HTML, CSS, JavaScript, React.js <br>
+  <strong>Backend</strong>: PHP, Express, Python <br>
+  <strong>Database</strong>: MySQL, Oracle <br>
+  <strong>Version Control</strong>: Git, GitHub <br>
+  <strong>Other Tools</strong>: Docker, Postman
+</div>
 
 | Frontend                     | Backend                     | Database              | Version Control         | Other Tools      |
 |------------------------------|-----------------------------|-----------------------|-------------------------|------------------|
