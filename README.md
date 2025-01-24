@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a human being who is interested in programming languages, I like creating websites and currently I am studying machine learning and deep learning so that I can make websites more interesting, especially in image processing. Please visit my repository to see it
 🐸✨  
-<img src="https://i.imgur.com/PFQLwLU.gif" />
+<img src="https://i.imgur.com/0VylUst.gif" />
 ✨🐸
 
 
