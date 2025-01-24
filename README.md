@@ -24,10 +24,14 @@ Here are some of the technologies I love working with:
 - **Cloud Computing** with AWS and Azure
 - **Advanced React** (Hooks, Context API, etc.)
 - **Machine Learning** with Python
-
+  
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actiel001&layout=compact&theme=radical" />
+</div>
+
 
 ## 🔗 Connect with Me
 
