@@ -30,8 +30,6 @@ Here are some of the technologies I love working with:
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical" />
  <a href="https://github.com/actiel001"><p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact" alt="actiel001" /></p></a>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actiel001&layout=compact&theme=radical" />
 </div>
 
 <div>
