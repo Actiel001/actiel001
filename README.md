@@ -1,10 +1,10 @@
  # Im Actiel Universe a.k.a Actiel 😎
 
 Welcome to my GitHub profile! I am a human being who is interested in programming languages, I like creating websites and currently I am studying machine learning and deep learning so that I can make websites more interesting, especially in image processing. Please visit my repository to see it
-🐸✨  
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWswcG9nZXRuM3Zoejc4MzYwdG1lMWNyYTMzeW9leHo3ZndsaDJ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuYrWcugEEBBZo54mp/giphy.gif" />
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWswcG9nZXRuM3Zoejc4MzYwdG1lMWNyYTMzeW9leHo3ZndsaDJ1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UuYrWcugEEBBZo54mp/giphy.gif" alt="Anime Character" style="max-width: 80%; height: auto; border-radius: 10px;">
+</p>
 
-✨🐸
 
 
 
