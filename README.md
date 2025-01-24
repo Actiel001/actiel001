@@ -58,8 +58,8 @@ Here are some of the technologies I love working with:
 
 
 
-   ### 🔗 Connect w me
-   <h3 align="center">Connect w me</h3>
+  
+   <h3 align="center">🔗Connect w me</h3>
 
 
 
