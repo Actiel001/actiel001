@@ -39,7 +39,7 @@ well I hope I succeed because actually the time I have is very limited, but I li
 
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=gruvbox" 
+  <img src="https://github-readme-stats.vercel.app/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical" 
        style="width: 46%; height: 280px; object-fit: cover;"/>
   <img src="https://i.imgur.com/yzKDGag.png" style="width: 100px; height: 120px; object-fit: contain;"/>
   <a href="https://github.com/actiel001">
