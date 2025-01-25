@@ -10,7 +10,10 @@ Welcome to my GitHub profile! I am a human being who is interested in programmin
 ## 🔧 Tech Stack
 
 Here are some of the technologies I love working with:
-
+<p align="right">
+  <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif">
+</p>
+</div>
 <div align="right">
   <strong>Frontend</strong>: HTML, CSS, JavaScript, React.js <br>
   <strong>Backend</strong>: PHP, Express, Python <br>
