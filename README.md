@@ -108,7 +108,6 @@ Thanks for visiting my profile! Let's connect and build something great! 🚀
   <img src="https://github-profile-trophy.vercel.app/?username=Actiel001&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Actiel001&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 48%;"/>
-</div>
+<img src="https://github-contributor-stats.vercel.app/api?username=Actiel001&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 100%;"/>
+
 
