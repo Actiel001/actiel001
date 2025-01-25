@@ -43,7 +43,7 @@ well I hope I succeed because actually the time I have is very limited, but I li
        style="width: 46%; height: 280px; object-fit: cover;"/>
   <img src="https://i.imgur.com/yzKDGag.png" style="width: 100px; height: 120px; object-fit: contain;"/>
   <a href="https://github.com/actiel001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=dark&card_width=450" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=dracula&card_width=450" 
          alt="actiel001" style="width: 41%; height: 280px; object-fit: cover;"/>
   </a>
 </div>
