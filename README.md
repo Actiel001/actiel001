@@ -18,7 +18,7 @@ Here are some of the technologies I love working with:
   <strong>Version Control</strong>: Git, GitHub <br>
   <strong>Other Tools</strong>: Docker, Postman
 </div>
-<div style="display: flex; align-items: center; justify-content: flex-start;">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start;">
   <table border="1">
     <thead>
       <tr>
