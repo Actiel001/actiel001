@@ -18,7 +18,7 @@ Here are some of the technologies I love working with:
   <strong>Version Control</strong>: Git, GitHub <br>
   <strong>Other Tools</strong>: Docker, Postman
 </div>
-<div style="display: flex; justify-content: flex-start; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: flex-start;">
   <table border="1">
     <thead>
       <tr>
@@ -60,15 +60,13 @@ Here are some of the technologies I love working with:
       </tr>
     </tbody>
   </table>
-  
+
   <div style="flex-shrink: 0; margin-left: 20px;">
-        <p align="Right">
-      <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif" alt="Pixel Cat">
+    <p align="right">
+      <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif" alt="Pixel Cat" style="width: 100px; height: auto;">
     </p>
   </div>
 </div>
-
-
 ## 🌱 I’m Currently Learning
 
 **Cloud Computing with AWS and Azure** (because the cloud is the future 🌥️), **Advanced React** (Hooks, Context API, and beyond-keeping it modern), and **Machine Learning with Python** (teaching machines to think 🤖).
