@@ -42,7 +42,10 @@ well I hope I succeed because actually the time I have is very limited, but I li
   <img src="https://github-readme-stats.vercel.app/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical" style="width: 48%; height: 200px; object-fit: cover;"/>
   <img src="https://i.imgur.com/yzKDGag.png" style="width: 100px; height: 120px; object-fit: contain;"/>
 <a href="https://github.com/actiel001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact" alt="actiel001" style="width: 38%; height: 200px; object-fit: cover;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=radical" 
+         alt="actiel001" style="width: 38%; height: 200px; object-fit: cover;"/>
+</a>
+
 </a>
 </div>
 
