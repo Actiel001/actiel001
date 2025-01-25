@@ -67,6 +67,7 @@ Here are some of the technologies I love working with:
     </p>
   </div>
 </div>
+
 ## 🌱 I’m Currently Learning
 
 **Cloud Computing with AWS and Azure** (because the cloud is the future 🌥️), **Advanced React** (Hooks, Context API, and beyond-keeping it modern), and **Machine Learning with Python** (teaching machines to think 🤖).
