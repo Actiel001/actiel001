@@ -26,6 +26,9 @@ Here are some of the technologies I love working with:
 | ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)  |                       |                         |                  |
 | ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black) |                             |                       |                         |                  |
 
+<p align="right">
+  <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif">
+</p>
 </div>
 
 
