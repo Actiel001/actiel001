@@ -26,6 +26,7 @@ Here are some of the technologies I love working with:
     </p>
   </div>
   
+  <div style="display: flex; justify-content: flex-start; align-items: center;">
   <table border="1">
     <thead>
       <tr>
@@ -67,7 +68,14 @@ Here are some of the technologies I love working with:
       </tr>
     </tbody>
   </table>
+  
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <p align="left">
+      <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif" alt="Pixel Cat">
+    </p>
+  </div>
 </div>
+
 
 
 
