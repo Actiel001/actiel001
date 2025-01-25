@@ -63,7 +63,7 @@ Here are some of the technologies I love working with:
 
   <div style="flex-shrink: 0; margin-left: 20px;">
     <p align="right">
-      <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif" alt="Pixel Cat" style="width: 150px; height: auto;">
+      <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif" alt="Pixel Cat" style="width: 200px; height: auto;">
     </p>
   </div>
 </div>
@@ -131,8 +131,7 @@ and if you want to make friends, please click on the icon provided, I will be ve
 
 Here are some of the projects I’ve worked on:
 
-- [**smmssmss*](https://github.com/actiel001/): A system sss.
-- [**Task Manager App**](https://github.com/actiel001/task-manager): A task manager app to organize tasks and improve productivity.
+- [**smmssmss**](https://github.com/actiel001/): A system sss.
 
 ---
 
