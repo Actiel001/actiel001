@@ -62,7 +62,7 @@ Here are some of the technologies I love working with:
   </table>
   
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <p align="left">
+        <p align="Right">
       <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif" alt="Pixel Cat">
     </p>
   </div>
