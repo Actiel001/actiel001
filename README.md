@@ -27,7 +27,7 @@ Here are some of the technologies I love working with:
 | ![React](https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black) |                             |                       |                         |                  |
 
 <p align="right">
-  <img src="https://media.tenor.com/0kHYtZJ4c_AAAAAi/pixel-cat.gif">
+  <img src="https://i.giphy.com/jf8FsS1JGOXmg.webp">
 </p>
 </div>
 
