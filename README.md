@@ -109,7 +109,6 @@ Thanks for visiting my profile! Let's connect and build something great! 🚀
 </p>
 
 <div style="display: flex; justify-content: space-between; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Actiel001&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 48%;"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=Actiel001&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" style="width: 48%;"/>
 </div>
 
