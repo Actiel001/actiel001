@@ -35,7 +35,7 @@ Here are some of the technologies I love working with:
         <td><img src="https://img.shields.io/badge/PHP-777bb3?style=flat&logo=php&logoColor=white" alt="PHP"></td>
         <td><img src="https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white" alt="MySQL"></td>
         <td><img src="https://img.shields.io/badge/Git-f34b7d?style=flat&logo=git&logoColor=white" alt="Git"></td>
-        <td><img src="https://img.shields.io/badge/Docker-2496ed?style=flat&logo=docker&logoColor=white" alt="Docker"></td>
+        <td><img src="https://img.shields.io/badge/Adobe%20Photoshop-31a8ff?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop"></td>
       </tr>
       <tr>
         <td><img src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" alt="CSS3"></td>
@@ -49,6 +49,8 @@ Here are some of the technologies I love working with:
         <td><img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" alt="Python"></td>
         <td></td>
         <td></td>
+       <td><img src="https://img.shields.io/badge/Adobe%20Illustrator-ff9a00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator"></td>
+      </tr>
         <td></td>
       </tr>
       <tr>
