@@ -115,31 +115,6 @@ well I hope I succeed because actually the time I have is very limited, but I li
  
    <h3 align="center">🔗Connect w me</h3>
    
-<a href="https://www.linkedin.com/in/andin-naila-rohmah-67b483349/" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40">
-</a>
-<a href="https://x.com/Actiel001" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/twitter/twitter-original.svg" width="40" height="40">
-</a>
-<a href="https://discord.gg/vFxBRdYkVY" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/discord/discord-original.svg" width="40" height="40">
-</a>
-<a href="https://instagram.com/actiel001" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40">
-</a>
-<a href="https://www.facebook.com/alif.alfarro.3/" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40">
-</a>
-<a href="https://www.youtube.com/@actiel_universe" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40" height="40">
-</a>
-<a href="https://www.tiktok.com/@actiel_universeau" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tiktok/tiktok-original.svg" width="40" height="40">
-</a>
-<a href="mailto:actieluniverse@gmail.com" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40">
-</a>
-
 
 Feel free to check out my repositories and let's collaborate! 😄 <br>
 and if you want to make friends, please click on the icon provided, I will be very happy!!
