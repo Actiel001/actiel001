@@ -133,7 +133,11 @@ and if you want to make friends, please click on the icon provided, I will be ve
 ## 💻 Projects
 
 Here are some of the projects I’ve worked on:
-
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP%20Native-777bb3?style=for-the-badge&logo=php&logoColor=white" alt="Native PHP">
+</p>
 - [**smmssmss**](https://github.com/actiel001/): A system sss.
 
 ---
