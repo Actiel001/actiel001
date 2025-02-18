@@ -119,7 +119,7 @@ well I hope I succeed because actually the time I have is very limited, but I li
   <img src="https://simpleicons.org/icons/linkedin.svg" width="40" height="40">
 </a>
 <a href="https://x.com/Actiel001">
-  <img src="https://simpleicons.org/icons/twitter.svg" width="40" height="40">
+  <img src="https://simpleicons.org/icons/x.svg" width="40" height="40">
 </a>
 <a href="https://discord.gg/vFxBRdYkVY">
   <img src="https://simpleicons.org/icons/discord.svg" width="40" height="40">
