@@ -49,7 +49,7 @@ Here are some of the technologies I love working with:
         <td><img src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" alt="Python"></td>
         <td></td>
         <td></td>
-        <td></td>
+               <td><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999ff?style=flat&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects"></td>
       </tr>
       <tr>
         <td><img src="https://img.shields.io/badge/React.js-61dafb?style=flat&logo=react&logoColor=black" alt="React"></td>
