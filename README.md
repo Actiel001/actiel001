@@ -58,7 +58,6 @@ Here are some of the technologies I love working with:
         <td></td>
        <td><img src="https://img.shields.io/badge/Adobe%20Illustrator-ff9a00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator"></td>
       </tr>
-        <td></td>
       </tr>
     </tbody>
   </table>
