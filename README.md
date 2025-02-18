@@ -115,33 +115,30 @@ well I hope I succeed because actually the time I have is very limited, but I li
  
    <h3 align="center">🔗Connect w me</h3>
    
-<a href="https://www.linkedin.com/in/andin-naila-rohmah-67b483349/">
-  <img src="https://simpleicons.org/icons/linkedin.svg" width="40" height="40">
+<a href="https://www.linkedin.com/in/andin-naila-rohmah-67b483349/" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40">
 </a>
-<a href="https://x.com/Actiel001">
+<a href="https://x.com/Actiel001" style="text-decoration: none;">
   <img src="https://simpleicons.org/icons/x.svg" width="40" height="40">
 </a>
-<a href="https://discord.gg/vFxBRdYkVY">
+<a href="https://discord.gg/vFxBRdYkVY" style="text-decoration: none;">
   <img src="https://simpleicons.org/icons/discord.svg" width="40" height="40">
 </a>
-<a href="https://instagram.com/actiel001">
+<a href="https://instagram.com/actiel001" style="text-decoration: none;">
   <img src="https://simpleicons.org/icons/instagram.svg" width="40" height="40">
 </a>
-<a href="https://www.facebook.com/alif.alfarro.3/">
+<a href="https://www.facebook.com/alif.alfarro.3/" style="text-decoration: none;">
   <img src="https://simpleicons.org/icons/facebook.svg" width="40" height="40">
 </a>
-<a href="https://www.youtube.com/@actiel_universe">
+<a href="https://www.youtube.com/@actiel_universe" style="text-decoration: none;">
   <img src="https://simpleicons.org/icons/youtube.svg" width="40" height="40">
 </a>
-<a href="https://www.tiktok.com/@actiel_universeau">
+<a href="https://www.tiktok.com/@actiel_universeau" style="text-decoration: none;">
   <img src="https://simpleicons.org/icons/tiktok.svg" width="40" height="40">
 </a>
-<a href="mailto:actieluniverse@gmail.com">
+<a href="mailto:actieluniverse@gmail.com" style="text-decoration: none;">
   <img src="https://simpleicons.org/icons/gmail.svg" width="40" height="40">
 </a>
-
-
-
 
 
 Feel free to check out my repositories and let's collaborate! 😄 <br>
