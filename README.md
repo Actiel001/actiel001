@@ -104,7 +104,7 @@ well I hope I succeed because actually the time I have is very limited, but I li
 <b>Origin:</b> Isekai
 </li>
 <li>
-<b>Website :</b> https://katanime1.blogspot.com/
+<b>Website :</b> https://actiel.devport.my.id/ | https://katanime1.blogspot.com/
 </li>
 <li>
 <b>Motto :</b> be a normal person
