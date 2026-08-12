@@ -89,16 +89,15 @@ well I hope I succeed because actually the time I have is very limited, but I li
   </a>
 </div> -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://vercel.app" 
-       style="width: 45%; height: 205px; object-fit: cover;"/>
-       
-  <img src="https://imgur.com/yzKDGag.png" style="width: 100px; height: 120px; object-fit: contain;"/>
-  
-  <a href="https://github.com">
+  <img src="https://herokuapp.com" 
+       style="width: 45%; height: 205px; object-fit: contain;"/>
+         <img src="https://i.imgur.com/yzKDGag.png" style="width: 100px; height: 120px; object-fit: contain;"/>
+    <a href="https://github.com">
     <img src="https://vercel.app" 
-         alt="actiel001" style="width: 41%; height: 200px; object-fit: cover;"/>
+         alt="actiel001" style="width: 41%; height: 200px; object-fit: contain;"/>
   </a>
 </div>
+
 
 
 
