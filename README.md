@@ -162,10 +162,6 @@ Thanks for visiting my profile! Let's connect and build something great! 🚀
   <img src="https://github-profile-trophy.vercel.app/?username=Actiel001&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p> -->
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
 
 
