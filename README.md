@@ -89,14 +89,20 @@ well I hope I succeed because actually the time I have is very limited, but I li
   </a>
 </div> -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://herokuapp.com" 
-       style="width: 45%; height: 205px; object-fit: contain;"/>
-         <img src="https://i.imgur.com/yzKDGag.png" style="width: 100px; height: 120px; object-fit: contain;"/>
-    <a href="https://github.com">
+  <!-- Statistik Akun Utama (Menggunakan server metrics alternatif) -->
+  <img src="https://lecoq.io" 
+       style="width: 48%; height: auto; object-fit: contain;"/>
+       
+  <!-- Gambar Kucing -->
+  <img src="https://imgur.com" style="width: 80px; height: auto; object-fit: contain;"/>
+  
+  <!-- Bahasa Pemrograman Teratas (Server terpisah bebas hambatan) -->
+  <a href="https://github.com">
     <img src="https://vercel.app" 
-         alt="actiel001" style="width: 41%; height: 200px; object-fit: contain;"/>
+         alt="actiel001" style="width: 42%; height: auto; object-fit: contain;"/>
   </a>
 </div>
+
 
 
 
