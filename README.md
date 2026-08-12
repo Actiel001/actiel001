@@ -163,8 +163,10 @@ Thanks for visiting my profile! Let's connect and build something great! 🚀
 </p> -->
 
 <p align="center">
-  <img src="https://lecoq.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
+
 
 
 
