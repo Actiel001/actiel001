@@ -158,8 +158,11 @@ Thanks for visiting my profile! Let's connect and build something great! 🚀
   <img src="https://i.imgur.com/ub3Vj3M.png" alt="megumin" style="max-width: 50%; height: auto; border-radius: 10px;">
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Actiel001&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p> -->
+
 <p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Actiel001&theme=radical&no-frame=false&no-bg=false&margin-w=4" /> -->
   <img src="https://onrender.com" />
 </p>
 
