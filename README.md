@@ -94,7 +94,6 @@ well I hope I succeed because actually the time I have is very limited, but I li
   <div style="display: flex; align-items: center; gap: 15px; width: 45%;">
     <img src="https://imgur.com"
          style="width: 80px; height: 100px; object-fit: contain; flex-shrink: 0;" />
-    <Kartu Bahasa (Ukuran Dikecilkan) 
     <a href="https://github.com" style="flex-grow: 1; display: block;">
       <img src="https://shion.dev"
            alt="actiel001"
@@ -102,6 +101,7 @@ well I hope I succeed because actually the time I have is very limited, but I li
     </a>
   </div>
 </div>
+
 
 
 
