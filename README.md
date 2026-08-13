@@ -89,15 +89,21 @@ well I hope I succeed because actually the time I have is very limited, but I li
   </a>
 </div> -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 12px; width: 100%;">
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
-       style="flex: 1; min-width: 0; height: 175px; object-fit: cover;" />
+       style="width: 34%; height: 145px; object-fit: contain;" />
+
+  <!-- Character -->
   <img src="https://i.imgur.com/yzKDGag.png"
-       style="width: 80px; height: 100px; object-fit: contain; flex-shrink: 0;" />
+       style="width: 70px; height: 90px; object-fit: contain; flex-shrink: 0;" />
+
+  <!-- Top Languages -->
   <a href="https://github.com/actiel001"
-     style="flex: 1; min-width: 0; display: block;">
+     style="width: 30%; display: block;">
     <img src="https://github-readme-stats.shion.dev/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=radical&card_width=350"
          alt="actiel001"
-         style="width: 100%; height: 145px; object-fit: cover;" />
+         style="width: 100%; height: 125px; object-fit: contain;" />
   </a>
 
 </div>
