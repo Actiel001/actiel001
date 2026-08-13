@@ -79,27 +79,22 @@ well I hope I succeed because actually the time I have is very limited, but I li
 🐸🎃🐸
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
-    width="360px"
-    style="vertical-align: middle;"
-  />
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
+       width="360">
 
-  <img
-    src="https://i.imgur.com/yzKDGag.png"
-    width="75px"
-    style="vertical-align: middle; margin: 0 15px;"
-  />
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://i.imgur.com/yzKDGag.png"
+       width="75">
+
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/actiel001">
-    <img
-      src="https://github-readme-stats.shion.dev/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=radical&card_width=350"
-      width="330px"
-      style="vertical-align: middle;"
-    />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=radical&card_width=350"
+         width="330">
   </a>
-</p>
+</div>
 
 <div>
 <h2> 🎃 About Me </h2>
