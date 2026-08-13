@@ -79,21 +79,21 @@ well I hope I succeed because actually the time I have is very limited, but I li
 🐸🎃🐸
 
 ## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
-       width="360">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 15px; width: 100%;">
 
-  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
+       style="width: 360px; height: 145px; flex-shrink: 1;" />
 
   <img src="https://i.imgur.com/yzKDGag.png"
-       width="75">
+       style="width: 70px; height: 90px; object-fit: contain; flex-shrink: 0;" />
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/actiel001">
+  <a href="https://github.com/actiel001"
+     style="display: block; flex-shrink: 1;">
     <img src="https://github-readme-stats.shion.dev/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=radical&card_width=350"
-         width="330">
+         alt="actiel001"
+         style="width: 330px; height: 145px; object-fit: contain;" />
   </a>
+
 </div>
 
 <div>
