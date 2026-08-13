@@ -89,18 +89,19 @@ well I hope I succeed because actually the time I have is very limited, but I li
   </a>
 </div> -->
 <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 15px; width: 100%;">
-  <img src="https://shion.dev"
+  <img src="https://vercel.app"
        style="width: 45%; height: 205px; object-fit: cover;" />
   <div style="display: flex; align-items: center; gap: 15px; width: 45%;">
     <img src="https://imgur.com"
          style="width: 80px; height: 100px; object-fit: contain; flex-shrink: 0;" />
     <a href="https://github.com" style="flex-grow: 1; display: block;">
-      <img src="https://shion.dev"
+      <img src="https://vercel.app"
            alt="actiel001"
            style="width: 100%; height: 160px; object-fit: cover;" />
     </a>
   </div>
 </div>
+
 
 
 
