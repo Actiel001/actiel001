@@ -88,19 +88,22 @@ well I hope I succeed because actually the time I have is very limited, but I li
          alt="actiel001" style="width: 41%; height: 200px; object-fit: cover;"/>
   </a>
 </div> -->
-<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 15px; width: 100%;">
-  <img src="https://vercel.app"
+<div style="display: block; width: 100%;">
+  <img src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
        style="width: 45%; height: 205px; object-fit: cover;" />
-  <div style="display: flex; align-items: center; gap: 15px; width: 45%;">
-    <img src="https://imgur.com"
-         style="width: 80px; height: 100px; object-fit: contain; flex-shrink: 0;" />
-    <a href="https://github.com" style="flex-grow: 1; display: block;">
-      <img src="https://vercel.app"
-           alt="actiel001"
-           style="width: 100%; height: 160px; object-fit: cover;" />
-    </a>
-  </div>
+  
+  <br /><br />
+
+  <img src="https://i.imgur.com/yzKDGag.png"
+       style="width: 80px; height: 100px; object-fit: contain; vertical-align: middle; margin-right: 15px;" />
+  
+  <a href="https://github.com/actiel001" style="display: inline-block; vertical-align: middle;">
+    <img src="https://shion.dev"
+         alt="actiel001"
+         style="width: 320px; height: 160px; object-fit: cover;" />
+  </a>
 </div>
+
 
 
 
