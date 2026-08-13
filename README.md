@@ -88,18 +88,16 @@ well I hope I succeed because actually the time I have is very limited, but I li
          alt="actiel001" style="width: 41%; height: 200px; object-fit: cover;"/>
   </a>
 </div> -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; width: 100%;">
-  
+<div style="display: flex; justify-content: center; align-items: center; gap: 12px; width: 100%;">
   <img src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
-       style="width: 42%; height: 205px; object-fit: cover;" />
-
+       style="flex: 1; min-width: 0; height: 175px; object-fit: cover;" />
   <img src="https://i.imgur.com/yzKDGag.png"
-       style="width: 100px; height: 120px; object-fit: contain; flex-shrink: 0;" />
-
-  <a href="https://github.com/actiel001" style="width: 32%; display: block;">
+       style="width: 80px; height: 100px; object-fit: contain; flex-shrink: 0;" />
+  <a href="https://github.com/actiel001"
+     style="flex: 1; min-width: 0; display: block;">
     <img src="https://github-readme-stats.shion.dev/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=radical&card_width=350"
          alt="actiel001"
-         style="width: 100%; height: 170px; object-fit: cover;" />
+         style="width: 100%; height: 145px; object-fit: cover;" />
   </a>
 
 </div>
