@@ -88,25 +88,32 @@ well I hope I succeed because actually the time I have is very limited, but I li
          alt="actiel001" style="width: 41%; height: 200px; object-fit: cover;"/>
   </a>
 </div> -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 12px; width: 100%;">
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
-       style="width: 34%; height: 145px; object-fit: contain;" />
+<img src="https://github-readme-stats.shion.dev/api?username=actiel001&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical"
+     width="360px" />
 
-  <!-- Character -->
-  <img src="https://i.imgur.com/yzKDGag.png"
-       style="width: 70px; height: 90px; object-fit: contain; flex-shrink: 0;" />
+</td>
 
-  <!-- Top Languages -->
-  <a href="https://github.com/actiel001"
-     style="width: 30%; display: block;">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=radical&card_width=350"
-         alt="actiel001"
-         style="width: 100%; height: 125px; object-fit: contain;" />
-  </a>
+<td width="12%" align="center" valign="middle">
 
-</div>
+<img src="https://i.imgur.com/yzKDGag.png"
+     width="75px" />
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<a href="https://github.com/actiel001">
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=actiel001&show_icons=true&locale=en&layout=compact&theme=radical&card_width=350"
+     width="330px" />
+</a>
+
+</td>
+</tr>
+</table>
 
 
 
